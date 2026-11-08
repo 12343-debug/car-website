@@ -1,0 +1,15 @@
+# Raw frame archives and source extraction folders
+*frame.zip/
+*.zip
+*.zip.zip
+*.png
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
